@@ -1,0 +1,16 @@
+{
+  "name": "botnaja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dong",
+  "license": "ISC",
+  "description": "test",
+  "dependencies": {
+    "q": "^1.4.1",
+    "request": "^2.74.0",
+    "restify": "^4.1.1"
+  }
+}
